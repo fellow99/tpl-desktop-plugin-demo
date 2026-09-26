@@ -289,3 +289,9 @@ export default {
 ## 规范文档
 
 完整的架构设计、功能规格、技术方案和测试用例位于 [`specs/`](./specs/) 目录，详见 [specs/README.md](./specs/README.md)。
+
+---
+
+## License
+
+本项目基于 [MIT License](./LICENSE) 开源。
